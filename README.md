@@ -22,10 +22,18 @@
 ### Meus principais repos:
 
 <div>
-  <img height=130em src="https://github-readme-stats.vercel.app/api/pin/?username=juanbailke&repo=controle-financeiro&theme=github_dark"/>
-  <img height=130em src="https://github-readme-stats.vercel.app/api/pin/?username=juanbailke&repo=CarTown-Clone&theme=github_dark"/>
-  <img height=130em src="https://github-readme-stats.vercel.app/api/pin/?username=juanbailke&repo=workshop-springboot3-jpa&theme=github_dark"/>
-  <img height=130em src="https://github-readme-stats.vercel.app/api/pin/?username=juanbailke&repo=springboot-mongodb&theme=github_dark"/>
+  <a href="https://github.com/JuanBailke/controle-financeiro">
+    <img height=130em src="https://github-readme-stats.vercel.app/api/pin/?username=juanbailke&repo=controle-financeiro&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/JuanBailke/CarTown-Clone">
+    <img height=130em src="https://github-readme-stats.vercel.app/api/pin/?username=juanbailke&repo=CarTown-Clone&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/JuanBailke/workshop-springboot3-jpa">
+    <img height=130em src="https://github-readme-stats.vercel.app/api/pin/?username=juanbailke&repo=workshop-springboot3-jpa&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/JuanBailke/springboot-mongodb">
+    <img height=130em src="https://github-readme-stats.vercel.app/api/pin/?username=juanbailke&repo=springboot-mongodb&theme=github_dark"/>
+  </a>
 </div>
 
 ##
